@@ -1,0 +1,18 @@
+/*
+ * This file has been created by the Vaadin Theme Editor. Please note that
+ * manual changes to individual CSS properties may be overwritten by the theme editor.
+ */
+vaadin-text-field.main-view-text-field-1::part(error-message) { font-size:var(--lumo-font-size-s); }
+
+vaadin-text-field.main-view-text-field-1::part(input-field) {
+  border-radius:var(--lumo-border-radius-l);
+  border-style:solid;
+  border-width:2px;
+  font-weight:bold;
+  height:var(--lumo-size-l);
+}
+
+vaadin-text-field.main-view-text-field-1::part(label) {
+  color:rgba(141,155,176,0.69);
+  font-weight:bold;
+}

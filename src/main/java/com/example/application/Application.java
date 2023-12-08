@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * The entry point of the Spring Boot application.
- *
- * Use the @PWA annotation make the application installable on phones, tablets
+ * Use the @PWA annotation to make the application installable on phones, tablets
  * and some desktop browsers.
  *
  */
